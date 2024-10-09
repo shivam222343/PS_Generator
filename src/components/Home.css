@@ -1,0 +1,11 @@
+.input {
+    background-color: #3f3f46; /* bg-zinc-700 */
+    padding-left: 0.75rem; /* px-3 */
+    padding-right: 0.75rem; /* px-3 */
+    padding-top: 0.5rem; /* py-2 */
+    padding-bottom: 0.5rem; /* py-2 */
+    margin-left: 0.5rem; /* ml-2 */
+    border-radius: 0.5rem; /* rounded-lg */
+    color: #ffffff; /* text-white */
+  }
+  
